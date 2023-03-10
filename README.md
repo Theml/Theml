@@ -10,6 +10,7 @@ Estou estudando sobre Game Dev e trabalho com Web Dev.
 ### :link: Links 
 
 [![GitHub Badge](https://img.shields.io/github/followers/Theml?label=follow&style=social)](https://github.com/Theml)
+<a href="https://gitlab.com/Theml" target="_blank"> <img align="center" alt="gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"/></a>
 <a href="https://instagram.com/luis_theml" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/LuisTheml" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
