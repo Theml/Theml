@@ -1,6 +1,5 @@
 # Hi there :wave:
 
-## Sobre mim
 Me chamo Luis, tenho 26 anos, faço faculdade de Engenharia de Software, gosto bastante de comida, animais, praia, uma boa leitura sempre é bem vinda e de vez enquando temos uns insights malucos, no tempo livre jogo bastante e tento tirar umas horas de sono. 
 Gosto bastante de programar em C# e aprendendo a mexer com java. Atualmente já trabalhei como Web Dev e sou aspirante a Game Dev.
 
