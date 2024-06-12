@@ -39,6 +39,3 @@ Gosto bastante de programar em C# e aprendendo a mexer com java. Atualmente já 
             <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
             <img align="center" alt="Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original-wordmark.svg"/>
 </div>
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/theml/theml/blob/master/frieren.jpg?raw=true'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}
