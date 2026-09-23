@@ -46,8 +46,4 @@ Gosto bastante de programar em **C#**, **Java** e do um jeito em **Python**, **T
 
 ---
 
-![Theml's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theml&show_icons=true&theme=radical)
-
----
-
 <sub>Obrigado por visitar meu perfil! Volte sempre 😊</sub>
