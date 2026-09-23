@@ -46,14 +46,6 @@ Gosto bastante de programar em **C#**, **Java** e do um jeito em **Python**, **T
 
 ---
 
-## Social & Contatos
-
-<a href="https://instagram.com/luis_theml" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/LuisTheml" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:luis.theml@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
----
-
 ![Theml's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theml&show_icons=true&theme=radical)
 
 ---
