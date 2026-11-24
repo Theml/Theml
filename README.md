@@ -5,7 +5,7 @@
 ---
 
 ## Sobre Mim
-Tenho 27 anos, faço faculdade de Engenharia de Software, gosto bastante de animais, ir na praia, comer ,e uma boa leitura sempre é bem vinda e de vez enquando tenho uns insights malucos, no meu tempo livre jogo bastante e tento tirar umas horas de sono.
+Tenho 28 anos, faço faculdade de Engenharia de Software, gosto bastante de animais, ir na praia, comer ,e uma boa leitura sempre é bem vinda e de vez enquando tenho uns insights malucos, no meu tempo livre jogo bastante e tento tirar umas horas de sono.
 <br>
 Gosto bastante de programar em **C#**, **Java** e do um jeito em **Python**, **Typescript** e **React**. Atualmente trabalho com desenvolvimento **Web e Mobile**, voltado a criar soluções para ajudar a população.
 > "Sempre na busca de evoluir e desenvolver o melhor para todos"
